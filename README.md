@@ -1,3 +1,0 @@
-# DeepVoid.dev
-## About
-DeepVoid.dev is a dynamic game development organization on GitHub, specializing in the creation of engaging and educational experiences. Focused on fostering learning through play, DeepVoid.dev crafts a diverse range of games, including educational simulations, mind-bending puzzles, and interactive quizzes. Their mission is to make learning enjoyable by leveraging the power of gamification. With a commitment to innovation and user-centric design, DeepVoid.dev strives to create immersive game environments that challenge, entertain, and educate. Join their GitHub community to explore the exciting world of education, puzzles, and quizzes at the intersection of fun and learning.
